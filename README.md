@@ -38,5 +38,7 @@ Numero minimo di push: 5
    e non farà conversioni "stringa/numero"
  3 usare else if + la condizione per verificare se il numero è 
  divisibile per 3 
- 4
+ 4 ripettere procedimento else if cambiando el 3 per il 5 
+ 5 usando console.log(i) comandiamo al program di stampare solo i numeri 
+ se nessuna delle condizioni precedenti sono vere.
    
