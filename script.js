@@ -1,6 +1,7 @@
 
 // comando il numero dall 1 al 100
-for (let i = 1; i <100; i++) 
+for (let i = 1; i <100; i++)
+  //divisibile per 3 e per 5  
     if (i % 3 === 0 && i % 5 === 0) {
     console.log("FizzBuzz");
   }
@@ -11,8 +12,10 @@ for (let i = 1; i <100; i++)
  //solo divisibile per 5
 
  else if ((i % 5 === 0)) {
-    console.log ()
-    
- } else {
+    console.log ("Buzz");
+
     
  }
+
+  //altrimenti solo il numero
+  
