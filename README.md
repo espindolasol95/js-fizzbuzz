@@ -28,3 +28,8 @@ Numero minimo di push: 5
 - per quelli divisibili per 3 stampare  "Fizz"
 - per quelli divisibili per 5 stampare  "Buzz"
 - per gli altri stampare solo il numero
+
+
+# passo a passo 
+ - iniziare un ciclo for dal 1 al 100
+ 
