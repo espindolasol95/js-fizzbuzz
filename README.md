@@ -16,3 +16,15 @@ proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro program
 
 Fate sempre il file README.md prima di cominciare a lavorare e scomponete il problema in sotto problemi.
 Numero minimo di push: 5
+
+
+
+
+
+# obiettivo del programma:
+
+- stampare i numeri da 1 al 100
+- por quelli  divisibili per 3 e per 5 stampare "FizzBuzz"
+- per quelli divisibili per 3 stampare  "Fizz"
+- per quelli divisibili per 5 stampare  "Buzz"
+- per gli altri stampare solo il numero
