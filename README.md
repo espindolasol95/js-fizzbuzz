@@ -31,5 +31,10 @@ Numero minimo di push: 5
 
 
 # passo a passo 
- - iniziare un ciclo for dal 1 al 100
- 
+ 1 iniziare un ciclo for dal 1 al 100
+ 2 controlare se il numero e divisibile poer 3-5
+   - usare % per far restituire il resto
+   - utilizare === (ugualanza stretta) per far confrontare sia valore che tipo
+   e non farà conversioni "stringa/numero"
+
+   
