@@ -18,4 +18,10 @@ for (let i = 1; i <100; i++)
  }
 
   //altrimenti solo il numero
+  else{
+    console.log (i);
+
+  }
+  
+
   
